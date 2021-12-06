@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.chandra_portfolio_mariogame">
    <application
-        android:label="chandra_portfolio_mariogame"
+        android:label="Chandra Kumar"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
